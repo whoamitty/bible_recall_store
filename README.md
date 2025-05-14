@@ -5,7 +5,7 @@
 # Bible Audio Recall Store
 
 Un dépôt(non encore fonctionnel)  
-pour stocker et organiser des playlists audio de la Bible française, optimisé pour une lecture avec MPV.
+pour stocker et organiser des playlists audio de la Bible en Français, optimisé pour une lecture avec MPV.
 J'ai l'intention de l'utiliser pour un prochain projet nommé **RecallCli**
 
 ## Structure du projet
