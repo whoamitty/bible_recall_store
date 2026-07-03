@@ -80,7 +80,8 @@ main(){
   echo write from "$setup_testament2"
   read_Setup_and_write_DB "$setup_testament2"
   
-  echo succesfully finish !!
+  echo -e "succesfully finish !!\n"
+  date
   }
 
 main
