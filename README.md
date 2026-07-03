@@ -96,5 +96,6 @@ https://emcitv.com/bible/audio/osee-voix-fr1.html
 https://emcitv.com/bible/audio/osee-voix-fr2.html  
 
 # Source for write number of chapter in the setup dataset
+I am not catholic it's only usefull
 https://www.catholic-resources.org/Bible/OT-Statistics-NAB.htm  
 https://www.catholic-resources.org/Bible/NT-Statistics-Greek.htm    
