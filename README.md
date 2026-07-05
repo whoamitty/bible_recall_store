@@ -105,8 +105,6 @@ mpv en/1_old_testament/01_genesis/{05..10}.m3u
 
 ```
 
-### Options recommandées pour MPV
-
 
 ```bash
 # Infinit loop
