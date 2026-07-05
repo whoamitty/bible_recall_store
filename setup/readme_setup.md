@@ -1,4 +1,7 @@
 
+#cat list_old | tr '[:upper:]' '[:lower:]' | sed -E 's/([0-9]+) ([a-zA-Z]+)/\1-\2/g' |  sed 'y/éèêëï/eeeei/'  #> list_formated_old
+
+
 Folders in old_testament
 ```
 index=1;   for i in genese exode levitique nombres deuteronome josue juges ruth 1-samuel 2-samuel 1-rois 2-rois 1-chroniques 2-chroniques esdras nehemie esther job psaumes proverbes ecclesiaste cantique-des-cantiques esaie jeremie lamentations ezechiel daniel osee joel amos abdias jonas michee nahum habakuk sophonie aggee zacharie malachie ; do printf "%02d_${i}" $index ; index=$((index+1)); done
