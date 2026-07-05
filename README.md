@@ -115,7 +115,7 @@ mpv en --loop-playlist=inf
 mpv --playlist=old_testament/genese --shuffle
 ```
 
-## Plalist generator
+## Playlist generator
 
 The script `setup/setup.sh` generate playlists automaticly. It extract the file information in `setup/setup_datas/` and creat the acording urls
 
