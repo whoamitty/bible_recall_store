@@ -111,6 +111,6 @@ main(){
 
   echo -e "succesfully finish !!\n"
   date
-  }
+}
 
 main

@@ -112,7 +112,7 @@ mpv en --loop-playlist=inf
 # Or type L for toogle between inf and normal mode  
 
 # Shuffle reading  
-mpv --playlist=old_testament/genese --shuffle  
+mpv --playlist=en/old_testament/genese --shuffle  
 ```  
 
 ## Playlist generator  
